@@ -78,6 +78,32 @@ Si, signorina.
 20:50 Lei capisce l'italiano?
 21:05 Si.
 21:18 Io capisco un po' l'italian.
+22:08 Scusi.
+22:11 Scusi, signorina.
+22:22 Lei capisce?
+22:33 Lei capisce l'italiano?
+22:46 Lei capisce l'inglese?
+22:46 No, signore.
+23:07 Io non caspisco l'inglese.
+23:25 Lei capisce l'italiano?
+23:41 Io capisco un po'.
+23:56 Lei è americano?
+24:10 Si, signorina.
+24:23 Scusi.
+24:26 Scusi, signorina.
+24:37 Lei capisce?
+24:48 Lei capisce l'italiano?
+25:00 Lei capisce l'inglese?
+25:06 No, signore.
+25:15 Io non capisco l'inglese.
+25:28 Lei capisce l'italiano?
+25:39 Io capisco un po'.
+25:50 Lei è americano?
+26:00 Si, signorina.
+26:09 Lei capisce l'inglese?
+26:18 Si, signorina. Io capisco l'inglese.
+26:38 Lei capisce l'italiano?
+26:45 Un po'. Io capisco un po' l'italiano.
 ========================================
 capire
 parlare /parˈlare/
@@ -88,5 +114,6 @@ capire /kaˈpire/: io capisco, tu capisci, lei capisce, noi capiamo, voi capite,
 sono, sei, è, siamo, siete, sono
 ========================================
 https://dictionary.cambridge.org/dictionary/italian-english/
+https://www.collinsdictionary.com/dictionary/italian-english/
 https://www.wordreference.com/iten/
 https://www.italian-verbs.com/italian-verbs/conjugation.php?parola=
