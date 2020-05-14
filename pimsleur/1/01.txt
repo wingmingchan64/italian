@@ -4,7 +4,7 @@ Scusi! Lei capisce l'inglese?
 No, signore, io non capisco l'inglese.
 Io capisco un po' l'italiano.
 Lei è americano?
-Si, signorina.
+Sì, signorina.
 ========================================
 01:04 scusi
 01:40 l'inglese /inˈɡlese/, m
@@ -69,14 +69,14 @@ Si, signorina.
 18:45 Lei è americano.
 18:59 Lei è americano?
 19:13 Lei capisce l'italiano?
-19:35 si
-19:44 Si signorina.
+19:35 sì
+19:44 Sì signorina.
 19:48 signorina /siˈɲorina/
-20:08 Si signorina.
+20:08 Sì signorina.
 20:22 Lei è americano?
-20:35 Si signorina.
+20:35 Sì signorina.
 20:50 Lei capisce l'italiano?
-21:05 Si.
+21:05 Sì.
 21:18 Io capisco un po' l'italian.
 22:08 Scusi.
 22:11 Scusi, signorina.
@@ -88,7 +88,7 @@ Si, signorina.
 23:25 Lei capisce l'italiano?
 23:41 Io capisco un po'.
 23:56 Lei è americano?
-24:10 Si, signorina.
+24:10 Sì, signorina.
 24:23 Scusi.
 24:26 Scusi, signorina.
 24:37 Lei capisce?
@@ -99,9 +99,9 @@ Si, signorina.
 25:28 Lei capisce l'italiano?
 25:39 Io capisco un po'.
 25:50 Lei è americano?
-26:00 Si, signorina.
+26:00 Sì, signorina.
 26:09 Lei capisce l'inglese?
-26:18 Si, signorina. Io capisco l'inglese.
+26:18 Sì, signorina. Io capisco l'inglese.
 26:38 Lei capisce l'italiano?
 26:45 Un po'. Io capisco un po' l'italiano.
 ========================================
